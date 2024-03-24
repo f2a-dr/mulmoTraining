@@ -14,6 +14,8 @@ Kind of a guide which can be followed from future students without the need for 
 
 - Use of a terminal emulator and what is a shell
 - Most common commands to navigate in a file system: ls, cd, touch, mkdir, cp, rm, echo, cat, tail, head
+- Use of man: example on tail, example on grep?
+- Chaining commands using pipe?
 - Text editors that can work on a terminal emulator: nano or vim (for who is feeling masochist)
 - Package managers: apt, snap
 - Permissions: read, write and execute, sudo
