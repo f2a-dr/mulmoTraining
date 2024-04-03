@@ -1,10 +1,10 @@
 For now three meetings are planned:
 
-# Linux, shell, in particular bash
+# Linux, shell, in particular bash (April 5th @1400)
 
 Tutorial hands-on, brief explanation of the commands to use and some example to test it during the meeting.
 
-A machine to do the tutorial will be provieded to the MSc thesis students, other partecipants can use their own laptop.
+A machine to do the tutorial will be provided to the MSc thesis students, other partecipants can use their own laptop.
 
 ## What to prepare
 
@@ -25,7 +25,7 @@ Kind of a guide which can be followed from future students without the need for 
 - Compiled languages vs scripted languages: compile and run a C++ program
 - What is ssh?
 
-# Computational resources, clusters, parallelization, SLURM
+# Computational resources, clusters, parallelization, SLURM (April 12th? @1530-1700?)
 
 ## Possible topics
 
@@ -34,6 +34,7 @@ Kind of a guide which can be followed from future students without the need for 
 - Miniclusters, HPC@Polito
 - Policy for the use of shared computational resources
 
-# git, Data management
+# git, Data management 
+Just follow the mulmo guide, to be done in the week between Apr 12 and Apr 19 (Apr 19: mulmopro seminar, Sandro)
 
 
