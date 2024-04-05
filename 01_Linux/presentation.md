@@ -57,6 +57,34 @@ To do so let's open the progam **File** and let's keep the two windows side by s
 
 [comment]: # (!!!)
 
+### The `ls` command
+
+It is used to *list* all the files and directories
+
+Let's try it:
+
+```bash
+ls 
+```
+
+[comment]: # (!!! data-auto-animate data-background-color="goldenrod")
+
+### The `ls` command
+
+It is used to *list* all the files and directories
+
+Let's try it:
+
+```bash
+ls 
+```
+The flag `-a` shows *all* files, including the hidden ones:
+```bash
+ls -a
+```
+
+[comment]: # (!!! data-auto-animate data-background-color="goldenrod")
+
 ### The filesystem structure
 
 The filesystem primary directory is the **root** `/`, which contains all the other directories:
@@ -75,6 +103,77 @@ The filesystem primary directory is the **root** `/`, which contains all the oth
 * `/root` contains the home directory for the root user
 
 [comment]: # (!!!)
+
+### The `pwd` command
+
+It *prints working directory*'s **path**, that is the absolute path of directory in which we are at the moment:
+```bash
+pwd
+```
+
+[comment]: # (!!! data-background-color="goldenrod")
+
+### The `cd` command
+
+It is use to *change directory*, and it requires as agument an absolute or a relative path:
+```bash
+cd /path/to/directory
+```
+
+[comment]: # (!!! data-background-color="goldenrod")
+
+Let's check where we are and enter in a subdirectory to see what's inside it
+```bash
+pwd
+```
+
+[comment]: # (!!! data-auto-animate data-background-color="goldenrod")
+
+Let's check where we are and enter in a subdirectory to see what's inside it
+```bash
+pwd
+ls
+```
+
+[comment]: # (!!! data-auto-animate data-background-color="goldenrod")
+
+Let's check where we are and enter in a subdirectory to see what's inside it
+```bash
+pwd
+ls
+cd Downloads
+```
+
+[comment]: # (!!! data-auto-animate data-background-color="goldenrod")
+
+Let's check where we are and enter in a subdirectory to see what's inside it
+```bash
+pwd
+ls
+cd Downloads
+ls
+```
+
+[comment]: # (!!! data-auto-animate data-background-color="goldenrod")
+
+What does happens know if I just type the command `cd`?
+```bash
+cd
+```
+
+[comment]: # (!!! data-auto-animate data-background-color="goldenrod")
+
+
+What does happens know if I just type the command `cd`?
+```bash
+cd
+```
+I am back in my home directory, and I can check it with:
+```bash
+pwd
+```
+
+[comment]: # (!!! data-auto-animate data-background-color="goldenrod")
 
 ## Lists and math
 

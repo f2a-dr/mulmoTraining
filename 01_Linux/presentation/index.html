@@ -69,6 +69,36 @@ We can open the Ubuntu file explorer on the side to have an graphical aid in und
 To do so let's open the progam **File** and let's keep the two windows side by side.
 
 </textarea></section>
+<section data-markdown  data-auto-animate data-background-color="goldenrod"><textarea data-template>
+
+### The `ls` command
+
+It is used to *list* all the files and directories
+
+Let's try it:
+
+```bash
+ls 
+```
+
+</textarea></section>
+<section data-markdown  data-auto-animate data-background-color="goldenrod"><textarea data-template>
+
+### The `ls` command
+
+It is used to *list* all the files and directories
+
+Let's try it:
+
+```bash
+ls 
+```
+The flag `-a` shows *all* files, including the hidden ones:
+```bash
+ls -a
+```
+
+</textarea></section>
 <section>
 <section data-markdown  ><textarea data-template>
 
@@ -93,6 +123,85 @@ The filesystem primary directory is the **root** `/`, which contains all the oth
 
 </textarea></section>
 </section>
+<section data-markdown  data-background-color="goldenrod"><textarea data-template>
+
+### The `pwd` command
+
+It *prints working directory*'s **path**, that is the absolute path of directory in which we are at the moment:
+```bash
+pwd
+```
+
+</textarea></section>
+<section data-markdown  data-background-color="goldenrod"><textarea data-template>
+
+### The `cd` command
+
+It is use to *change directory*, and it requires as agument an absolute or a relative path:
+```bash
+cd /path/to/directory
+```
+
+</textarea></section>
+<section data-markdown  data-auto-animate data-background-color="goldenrod"><textarea data-template>
+
+Let's check where we are and enter in a subdirectory to see what's inside it
+```bash
+pwd
+```
+
+</textarea></section>
+<section data-markdown  data-auto-animate data-background-color="goldenrod"><textarea data-template>
+
+Let's check where we are and enter in a subdirectory to see what's inside it
+```bash
+pwd
+ls
+```
+
+</textarea></section>
+<section data-markdown  data-auto-animate data-background-color="goldenrod"><textarea data-template>
+
+Let's check where we are and enter in a subdirectory to see what's inside it
+```bash
+pwd
+ls
+cd Downloads
+```
+
+</textarea></section>
+<section data-markdown  data-auto-animate data-background-color="goldenrod"><textarea data-template>
+
+Let's check where we are and enter in a subdirectory to see what's inside it
+```bash
+pwd
+ls
+cd Downloads
+ls
+```
+
+</textarea></section>
+<section data-markdown  data-auto-animate data-background-color="goldenrod"><textarea data-template>
+
+What does happens know if I just type the command `cd`?
+```bash
+cd
+```
+
+</textarea></section>
+<section data-markdown  data-auto-animate data-background-color="goldenrod"><textarea data-template>
+
+
+What does happens know if I just type the command `cd`?
+```bash
+cd
+```
+I am back in my home directory, and I can check it with:
+```bash
+pwd
+```
+
+</textarea></section>
 <section data-markdown  ><textarea data-template>
 
 ## Lists and math
