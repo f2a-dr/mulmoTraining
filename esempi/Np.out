@@ -1,0 +1,120 @@
+P50M_247.18RPM_Re38.92
+
+RPM = 247.18
+
+N = 4.119666666666666
+
+Re = 39.08714315606971
+
+### Power ###
+Static parts, P = 0.7280451480478771 [W]
+Rotating parts, P = 0.7290669342758572 [W]
+
+### Power Number ###
+Static parts, Np = 3.835441009190081
+Rotating parts, Np = 3.8408239182197317
+P50M_298.44RPM_Re46.99
+
+RPM = 298.44
+
+N = 4.974
+
+Re = 47.193005111649185
+
+### Power ###
+Static parts, P = 1.217145077507403 [W]
+Rotating parts, P = 1.2185190644148813 [W]
+
+### Power Number ###
+Static parts, Np = 3.6430760080538382
+Rotating parts, Np = 3.6471885323786006
+P50M_349.06RPM_Re54.96
+
+RPM = 349.06
+
+N = 5.817666666666667
+
+Re = 55.19766239201269
+
+### Power ###
+Static parts, P = 1.878169132188024 [W]
+Rotating parts, P = 1.8799076649342183 [W]
+
+### Power Number ###
+Static parts, Np = 3.5134309672820208
+Rotating parts, Np = 3.516683184924953
+P50M_378.85RPM_Re59.65
+
+RPM = 378.85
+
+N = 6.314166666666667
+
+Re = 59.90842375870626
+
+### Power ###
+Static parts, P = 2.3624560511925696 [W]
+Rotating parts, P = 2.3644125647393275 [W]
+
+### Power Number ###
+Static parts, Np = 3.4566773393713226
+Rotating parts, Np = 3.459540053383648
+P50M_398.18RPM_Re62.69
+
+RPM = 398.18
+
+N = 6.636333333333334
+
+Re = 62.96512121483873
+
+### Power ###
+Static parts, P = 2.718228005125631 [W]
+Rotating parts, P = 2.720323758204554 [W]
+
+### Power Number ###
+Static parts, Np = 3.425662196193154
+Rotating parts, Np = 3.4283033808478205
+P50M_424.34RPM_Re66.81
+
+RPM = 424.34
+
+N = 7.072333333333333
+
+Re = 67.1018623142917
+
+### Power ###
+Static parts, P = 3.255627886013417 [W]
+Rotating parts, P = 3.2579077286522815 [W]
+
+### Power Number ###
+Static parts, Np = 3.38992291657681
+Rotating parts, Np = 3.3922968029908187
+P50M_445.70RPM_Re70.17
+
+RPM = 445.7
+
+N = 7.428333333333333
+
+Re = 70.47956834962486
+
+### Power ###
+Static parts, P = 3.7448170211852787 [W]
+Rotating parts, P = 3.747241562132816 [W]
+
+### Power Number ###
+Static parts, Np = 3.3651132074151544
+Rotating parts, Np = 3.3672919132686903
+P50M_501.91RPM_Re79.02
+
+RPM = 501.91
+
+N = 8.365166666666667
+
+Re = 79.36818521507789
+
+### Power ###
+Static parts, P = 5.267535534972279 [W]
+Rotating parts, P = 5.270273336531264 [W]
+
+### Power Number ###
+Static parts, Np = 3.314567803869108
+Rotating parts, Np = 3.316290550462946
