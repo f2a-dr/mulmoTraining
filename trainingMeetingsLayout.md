@@ -12,18 +12,18 @@ Kind of a guide which can be followed from future students without the need for 
 
 ## Possible topics
 
-- Use of a terminal emulator and what is a shell
-- Most common commands to navigate in a file system: ls, cd, touch, mkdir, cp, rm, echo, cat, tail, head
-- Use of man: example on tail, example on grep?
-- Redirection command with write and append, stdout stderr
-- Maybe pipe operator `|`
-- Text editors that can work on a terminal emulator: nano or vim (for who is feeling masochist)
-- Package managers: apt, snap
-- Permissions: read, write and execute, sudo
-- Running a simple bash script
-- Running a simple python script, maybe pip and modules
-- Compiled languages vs scripted languages: compile and run a C++ program
-- What is ssh?
+- [x] Use of a terminal emulator and what is a shell
+- [x] Most common commands to navigate in a file system: ls, cd, touch, mkdir, cp, rm, echo, cat, tail, head
+- [ ] Use of man: example on tail, example on grep?
+- [ ] Redirection command with write and append, stdout stderr
+- [ ] Maybe pipe operator `|`
+- [ ] Text editors that can work on a terminal emulator: nano or vim (for who is feeling masochist)
+- [ ] Package managers: apt, snap
+- [x] Permissions: read, write and execute, sudo
+- [ ] Running a simple bash script
+- [ ] Running a simple python script, maybe pip and modules
+- [ ] Compiled languages vs scripted languages: compile and run a C++ program
+- [ ] What is ssh?
 
 # Computational resources, clusters, parallelization, SLURM (April 12th? @1530-1700?)
 
